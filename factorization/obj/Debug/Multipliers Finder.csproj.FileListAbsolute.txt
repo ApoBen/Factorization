@@ -1,0 +1,14 @@
+C:\Users\abdul\Desktop\vs22\education\edu\obj\Debug\Multipliers Finder.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\vs22\education\edu\obj\Debug\edu.Form1.resources
+C:\Users\abdul\Desktop\vs22\education\edu\obj\Debug\Multipliers Finder.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\vs22\education\edu\obj\Debug\Multipliers Finder.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\vs22\education\edu\obj\Debug\MultipliersFinder.Properties.Resources.resources
+C:\Users\abdul\Desktop\vs22\education\edu\bin\Debug\Multipliers Finder.exe.config
+C:\Users\abdul\Desktop\vs22\education\edu\bin\Debug\Multipliers Finder.exe.manifest
+C:\Users\abdul\Desktop\vs22\education\edu\bin\Debug\Multipliers Finder.application
+C:\Users\abdul\Desktop\vs22\education\edu\bin\Debug\Multipliers Finder.exe
+C:\Users\abdul\Desktop\vs22\education\edu\bin\Debug\Multipliers Finder.pdb
+C:\Users\abdul\Desktop\vs22\education\edu\obj\Debug\Multipliers Finder.exe.manifest
+C:\Users\abdul\Desktop\vs22\education\edu\obj\Debug\Multipliers Finder.application
+C:\Users\abdul\Desktop\vs22\education\edu\obj\Debug\Multipliers Finder.exe
+C:\Users\abdul\Desktop\vs22\education\edu\obj\Debug\Multipliers Finder.pdb

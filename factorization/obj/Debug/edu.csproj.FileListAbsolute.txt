@@ -1,0 +1,11 @@
+C:\Users\abdul\Desktop\vs22\education\edu\bin\Debug\edu.exe.config
+C:\Users\abdul\Desktop\vs22\education\edu\bin\Debug\edu.exe
+C:\Users\abdul\Desktop\vs22\education\edu\bin\Debug\edu.pdb
+C:\Users\abdul\Desktop\vs22\education\edu\obj\Debug\edu.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\vs22\education\edu\obj\Debug\edu.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\Desktop\vs22\education\edu\obj\Debug\edu.Form1.resources
+C:\Users\abdul\Desktop\vs22\education\edu\obj\Debug\edu.Properties.Resources.resources
+C:\Users\abdul\Desktop\vs22\education\edu\obj\Debug\edu.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\vs22\education\edu\obj\Debug\edu.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\vs22\education\edu\obj\Debug\edu.exe
+C:\Users\abdul\Desktop\vs22\education\edu\obj\Debug\edu.pdb

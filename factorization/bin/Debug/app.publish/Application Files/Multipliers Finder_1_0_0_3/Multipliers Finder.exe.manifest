@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Multipliers Finder.exe" version="1.0.0.3" publicKeyToken="ce611e5853c63e6f" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="apo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Multipliers Finder" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Multipliers Finder.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Multipliers Finder.exe" size="19376">
+      <assemblyIdentity name="Multipliers Finder" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Xreg1lt5o4184xpsBX+wF7Blq2gtzX1yI81kUiDm4EY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="apo.ico" size="4154">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FRXltNEIYSw43GZ3X83ov/IHiXPyFA4g+OyNZ0QGWeI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Multipliers Finder.exe.config" size="184">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>nxJ/Lo79mxoPYSZ8U/K6/s0rkBEHk+cM7lxPpMRjp2M=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=APOBENN\abdul" issuerKeyHash="48501c80a2a4ae5215b7cc61b2a5411fd2920093" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>NPo3gxfU/Ic3V7Vh2mk6xvY5lDYdZxsQqAE4kaHNM68=</DigestValue></Reference></SignedInfo><SignatureValue>wPCn+RFGG3+3Pb+GY5+rHoagsdTZi7BP20pkVwcPVj2WjisRmcc8naYHGY6AzRFu/G6boSJuXFhzLbKKiFCml6l84Ix91M08/xWhVBwyvGZYp1rDB4hL3RMh+dvFtQf8ed+/FYf0aJtHtRjYwRlrXxyyrYTWdAPBMMRy4adWUg4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>6NTAYhmjWlI34NwOvIgBNEIO1CI3mzxaS3+/UzUcP4Xr71QTibmBQUyTFf0J3qnlJJCEov/NQKnneCVovzbk6D0hoh12fIvbCPJ+yrGt4x6yz1bnQrowbCiAXj7UC+NmPLCeWLgiU8T18CU5/jvabyXKaF9GmMjK8YomsCNBMu0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="af33cda1913801a8101b671d369439f6c63a69da61b5573787fcd4178337fa34" Description="" Url=""><as:assemblyIdentity name="Multipliers Finder.exe" version="1.0.0.3" publicKeyToken="ce611e5853c63e6f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=APOBENN\abdul</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>wQpGIiURyVa8IJ92zB/W3g/k1T/U2xaWIfSx09rDnQ8=</DigestValue></Reference></SignedInfo><SignatureValue>pwNAF3WBqE/87QkGPCPAyD0zI4YD1bfRs30HprDgvhnhulenRtyDan3XDHM9a5UkXwdCY888ebIOXRkUH+5pjqcOSw//U2A4cgNpcCT5JCtPLEbcPhXYvuIFE+moeSMhbmaIC7IdIFdv+QvfwmhL+OjsizdyRVbzX9CLQ7lBBHk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>6NTAYhmjWlI34NwOvIgBNEIO1CI3mzxaS3+/UzUcP4Xr71QTibmBQUyTFf0J3qnlJJCEov/NQKnneCVovzbk6D0hoh12fIvbCPJ+yrGt4x6yz1bnQrowbCiAXj7UC+NmPLCeWLgiU8T18CU5/jvabyXKaF9GmMjK8YomsCNBMu0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQQWrkQ8F/xJtHC5am2J4JMzANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoAQQBQAE8AQgBFAE4ATgBcAGEAYgBkAHUAbDAeFw0yMzA2MjIxODM3MDJaFw0yNDA2MjIwMDM3MDJaMCUxIzAhBgNVBAMeGgBBAFAATwBCAEUATgBOAFwAYQBiAGQAdQBsMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDo1MBiGaNaUjfg3A68iAE0Qg7UIjebPFpLf79TNRw/hevvVBOJuYFBTJMV/QneqeUkkISi/81Aqed4JWi/NuToPSGiHXZ8i9sI8n7Ksa3jHrLPVudCujBsKIBePtQL42Y8sJ5YuCJTxPXwJTn+O9pvJcpoX0aYyMrxiiawI0Ey7QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAMaj8vzLi+90ogDkNBptaZRL9BWgxOSeFv2QSGKfLFBrWNECeW3LwnJxzY9WBLUa+Y2WiJ3m61SkoKm2Y1/6YBi9CUMBfDLmv9IOH754+u48Vi5CDdEYZzMyDs/HFp2h+jUiIxuODwbYkBQ9E7iNAtwashz63mOUeHi1riqpqcSE</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
